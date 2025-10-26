@@ -1,4 +1,4 @@
- ** Cramped code and projects that may or may not matter. **  
+## Cramped code and projects that may or may not matter.
 ### 💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -7,16 +7,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDhruv03&theme=radical" />
-</p>
-
----
-
 ### 📫 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/mdhruv03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
