@@ -1,4 +1,5 @@
-## Cramped code and projects that may or may not matter.
+## Cramped code & projects that may or may not matter
+
 ### 💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -7,8 +8,10 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
 ---
-### 📫 Connect with me
+
+### 📫 Reach Out
 <p align="left">
   <a href="https://www.linkedin.com/in/mdhruv03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dhruvm.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about.me&logoColor=white" /></a>
