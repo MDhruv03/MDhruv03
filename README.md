@@ -7,8 +7,9 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+---
 ### 📫 Connect with me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mdhruv03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dhruvm.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about.me&logoColor=white" /></a>
   <a href="mailto:dhruvmaheshwari2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
