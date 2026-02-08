@@ -1,6 +1,6 @@
 ```
-Cramped Code and Projects that may or may not matter.
-Learning high performance engineering and financial markets.
+Cramped code and projects of questionable importance.
+Focused on competitive programming, high performance engineering and financial markets.
 ```
 
 ### 💻 Tech Stack
