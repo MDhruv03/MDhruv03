@@ -29,3 +29,5 @@ Focused on competitive programming, high performance engineering and financial m
   <a href="https://dhruvm.dev/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about.me&logoColor=white" /></a>
   <a href="mailto:dhruvmaheshwari2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MDhruv03)
